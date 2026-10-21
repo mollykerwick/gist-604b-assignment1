@@ -1,7 +1,9 @@
 # Open Source Repository Review
 
 **Student:** Molly Kerwick
+
 **Course:** GIST 604B – Open Source GIS  
+
 **Assignment:** GitHub Repository Management  
 
 ---
@@ -30,23 +32,23 @@ They give detailed instructions for how to contribute to the project including t
 
 ## Repository 2
 
-**Repository Name:**  
-**Link:**  
+**Repository Name:**  Cartopy
+**Link:**  https://github.com/scitools/cartopy?tab=readme-ov-file
 
 ### Purpose
-What does this project do?
+Creates maps using Python for data visualization. It uses Matplotlib with increased capability.
 
 ### Repository Structure
-What folders or files stand out?
+There is an examples directory with Python scripts showing the use of different functions and classes.
 
 ### Documentation
-How helpful is the README?
+The README provides limited overview of the project and data types, but does include a link to the website with more information about the project.
 
 ### Activity
-Is the repository actively maintained?
+Yes. The most recent commit is from 23 hours ago.
 
 ### Key Observation
-One thing this project does well.
+While the community is small (131 contributors), the community seems very active with 403 current forks.
 
 ---
 
