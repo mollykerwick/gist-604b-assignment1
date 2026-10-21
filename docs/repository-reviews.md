@@ -11,6 +11,7 @@
 ## Repository 1
 
 **Repository Name:**  GeoPandas
+
 **Link:**  https://github.com/geopandas/geopandas
 
 ### Purpose
@@ -33,6 +34,7 @@ They give detailed instructions for how to contribute to the project including t
 ## Repository 2
 
 **Repository Name:**  Cartopy
+
 **Link:**  https://github.com/scitools/cartopy?tab=readme-ov-file
 
 ### Purpose
@@ -54,48 +56,50 @@ While the community is small (131 contributors), the community seems very active
 
 ## Repository 3
 
-**Repository Name:**  
-**Link:**  
+**Repository Name:** QGIS
+
+**Link:** https://github.com/qgis/QGIS
 
 ### Purpose
-What does this project do?
+Highly functional mapping software for Unix, Windows, and MacOS
 
 ### Repository Structure
-What folders or files stand out?
+Most of the repo is written in C++, and the install files for different operating systems are included in nested directories.
 
 ### Documentation
-How helpful is the README?
+The README is incredibly helpful with example visualizations, installation instructions, and guidance on contributing to the project.
 
 ### Activity
-Is the repository actively maintained?
+The project is actively maintained with the most recent commit being 2 hours ago, and a plethora of tests from past contributors.
 
 ### Key Observation
-One thing this project does well.
+This project has very robust documentation including READMEs in nested folders and training manuals on how to use the software.
 
 ---
 
 ## Repository 4
 
-**Repository Name:**  
-**Link:**  
+**Repository Name:**  TracPy
+
+**Link:** https://github.com/kthyng/tracpy
 
 ### Purpose
-What does this project do?
+Python wrapper for TRACMASS, a flow modeler tool used in oceanography mapping.
 
 ### Repository Structure
-What folders or files stand out?
+The project has an ideal repo storage system for a small software project including README, src, docs, etc.
 
 ### Documentation
-How helpful is the README?
+The README has very clear installation instructions including use of miniconda. It looks like the markdown for the README lost support as the numbering is now not working.
 
 ### Activity
-Is the repository actively maintained?
+The repository hasn't been updated in about 7 years so no, the repo is no longer maintained.
 
 ### Key Observation
-One thing this project does well.
+This project utilizes multiple Python features very well, including miniconda and ipython notebooks.
 
 ---
 
 ## Reflection
 
-In 3–5 sentences, explain what you learned about how open source projects are organized.
+I learned that open source projects have at minimum a README, a src folder, a docs folder, and a tests folder. They also all have a LICENSE of use. As the project gets more contributions and edits, the project becomes a little more difficult to navigate. This is why clear documentation at every level is important. Nested READMEs are very helpful for large projects like QGIS, but are not needed for smaller projects like TracPy. Overall, the use of clear naming conventions, including for commit messages, are needed if the project would like to have an actively contributing community.
