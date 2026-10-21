@@ -1,6 +1,6 @@
 # Open Source Repository Review
 
-**Student:** [Your Name]  
+**Student:** Molly Kerwick
 **Course:** GIST 604B – Open Source GIS  
 **Assignment:** GitHub Repository Management  
 
@@ -8,23 +8,23 @@
 
 ## Repository 1
 
-**Repository Name:**  
-**Link:**  
+**Repository Name:**  GeoPandas
+**Link:**  https://github.com/geopandas/geopandas
 
 ### Purpose
-What does this project do?
+This project adds support for geographic data using the Pandas library.
 
 ### Repository Structure
-What folders or files stand out?
+The repo has a multitude of .yml (YAML) files. I believe these are a more readable file type used in HTML conversion for their website <https://geopandas.org/en/stable/>. Since each YAML file is easily readable before HTML conversion, they act as documentation in each directory, which is helpful.
 
 ### Documentation
-How helpful is the README?
+The README is very helpful. It lists all of the required Python libraries. It also includes example code with example figures. The README includes a BibTeX citation which is helpful.
 
 ### Activity
-Is the repository actively maintained?
+Yes. The community is very active with the most recent pull request merge being 8 days ago.
 
 ### Key Observation
-One thing this project does well.
+They give detailed instructions for how to contribute to the project including test development requirements and commit message standards.
 
 ---
 
